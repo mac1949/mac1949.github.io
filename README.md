@@ -1,3 +1,3 @@
 # mac1949.github.io
-This is my blog.
 新建一个readme文件。
+我在这里做了一些删除、增加操作。
